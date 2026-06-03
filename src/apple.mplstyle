@@ -1,0 +1,8 @@
+axes.edgecolor: black
+axes.linewidth: 1.2
+axes.grid: True
+grid.alpha: 0.25
+figure.facecolor: white
+axes.facecolor: white
+savefig.facecolor: white
+font.size: 11
