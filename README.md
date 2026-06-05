@@ -2,7 +2,7 @@
 
 ## Contexto
 
-Este proyecto toma el modelo de K-Means entrenado en el proyecto anterior (California Housing) y lo expone como una aplicación web interactiva.
+Este proyecto toma el modelo de K-Means entrenado en el proyecto anterior (California Housing) y lo expone como una aplicación web interactiva. El modelo original está en [20-k-means-4geeks-project](https://github.com/Cerco01/20-k-means-4geeks-project).
 
 La app permite configurar una vivienda con tres variables y ver a qué cluster del modelo pertenece, además de mostrar todos los registros del dataset sobre un mapa.
 
