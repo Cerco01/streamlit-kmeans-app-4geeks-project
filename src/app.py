@@ -288,7 +288,6 @@ def add_page_styles():
         .stSlider {
             --primary-color: var(--apple-blue-focus) !important;
             --secondary-background-color: #d2d2d7 !important;
-            --red-color: var(--apple-blue-focus) !important;
         }
 
         .stSlider [data-baseweb="slider"] [role="slider"] {
@@ -300,14 +299,6 @@ def add_page_styles():
         .stSlider [data-baseweb="slider"] div,
         .stSlider [data-baseweb="slider"] span {
             accent-color: var(--apple-blue-focus) !important;
-        }
-
-        .stSlider [data-baseweb="slider"] div[style*="rgb(255, 75, 75)"],
-        .stSlider [data-baseweb="slider"] span[style*="rgb(255, 75, 75)"] {
-            color: var(--apple-blue-focus) !important;
-            background: var(--apple-blue-focus) !important;
-            background-color: var(--apple-blue-focus) !important;
-            border-color: var(--apple-blue-focus) !important;
         }
 
         .stSlider [data-baseweb="slider"] p,

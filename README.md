@@ -14,6 +14,8 @@ https://streamlit-kmeans-app-4geeks-project.onrender.com/
 
 ![Vista de la app](docs/img/app-preview.png)
 
+*Captura tomada en local. El deploy de Render puede tardar alrededor de un minuto en despertar tras un periodo de inactividad, por lo que la URL pública puede no verse igual al instante.*
+
 ## Dataset
 
 El dataset es California Housing, ya usado en el proyecto anterior. La app no lo entrena de nuevo, solo lo lee para alimentar el mapa interactivo y los sliders.
