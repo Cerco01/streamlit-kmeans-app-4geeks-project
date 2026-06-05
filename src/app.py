@@ -565,11 +565,13 @@ fig.update_layout(
     map_style="carto-positron",
     paper_bgcolor="rgba(0,0,0,0)",
     plot_bgcolor="rgba(0,0,0,0)",
-    font={"color": "#f7f8f8"},
+    font={"color": "#1d1d1f"},
     legend={
-        "bgcolor": "rgba(8,9,10,0.72)",
-        "bordercolor": "rgba(255,255,255,0.10)",
+        "bgcolor": "rgba(255,255,255,0.96)",
+        "bordercolor": "rgba(0,0,0,0.10)",
         "borderwidth": 1,
+        "font": {"color": "#1d1d1f", "size": 12},
+        "title": {"font": {"color": "#1d1d1f", "size": 13}},
     },
 )
 
